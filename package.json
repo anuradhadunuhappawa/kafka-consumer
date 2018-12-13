@@ -1,0 +1,25 @@
+{
+  "name": "kafka-consumer",
+  "version": "1.0.0",
+  "description": "Kafka consumer experiment with kafka-node",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anuradhadunuhappawa/kafka-consumer.git"
+  },
+  "keywords": [
+    "Kafka",
+    "Node",
+    "Javascript",
+    "Consumer"
+  ],
+  "author": "Anuradha Dunuhappawa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anuradhadunuhappawa/kafka-consumer/issues"
+  },
+  "homepage": "https://github.com/anuradhadunuhappawa/kafka-consumer#readme"
+}
